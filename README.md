@@ -1,6 +1,6 @@
 ### Allo 👋
 
-I do all sorts on personal time, but my primary focus is PowerShell.  
+I do all sorts on personal time, but my primary focus is PowerShell and automation.  
 On work time, I do a a mixture of infrastucture & cloud engineering/automation, DevOps, and SecOps.
 
 🔭 I’m currently working on all sorts of stuff, whatever I happen to throw myself into today!
