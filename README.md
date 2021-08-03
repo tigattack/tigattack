@@ -23,5 +23,4 @@ On work time, I do a a mixture of infrastucture & cloud engineering/automation, 
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tigattack&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
+![tigattack's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigattack&count_private=true&show_icons=true&theme=dracula)
