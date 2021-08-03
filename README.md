@@ -21,6 +21,4 @@ On work time, I do a a mixture of infrastucture & cloud engineering/automation, 
 * vSphere, Hyper-V, Veeam, and physical server, storage, and network infrastructure.
 * Much more...
 
-📈 My GitHub Stats
-
 ![tigattack's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigattack&count_private=true&show_icons=true&theme=dracula)
