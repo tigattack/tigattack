@@ -14,11 +14,11 @@ On work time, I do a a mixture of infrastucture & cloud engineering/automation, 
 🖋️ You can check out [my blog](https://blog.tiga.tech) if you like, it's a bit dead though.
 
 ⚙️ I'm experienced with:
-* Windows Server, Linux, macOS.
-* Ansible, AWX & Ansible Tower, Terraform, PowerShell DSC.
-* AWS, Azure, Microsoft 365.
-* PowerShell, Bash, some Python.
+* Automation: Ansible, AWX & Ansible Tower, Terraform, Packer, PowerShell DSC.
+* Cloud platforms: AWS, Azure & Microsoft 365, GCP.
+* Scripting: PowerShell, Bash, some Python.
 * vSphere, Hyper-V, Veeam, and physical server, storage, and network infrastructure.
+* Windows Server, Linux, macOS.
 * Much more...
 
 ![tigattack's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigattack&count_private=true&show_icons=true&theme=dracula)
