@@ -5,9 +5,9 @@ On work time, I do a a mixture of infrastucture & cloud engineering/automation, 
 
 🔭 I’m currently working on all sorts of stuff, whatever I happen to throw myself into today!
 
-👯 I’m looking to collaborate on my [VeeamDiscordNotifications](https://github.com/tigattack/VeeamDiscordNotifications) project.
+👯 I’m looking to collaborate on my [VeeamNotify](https://github.com/tigattack/VeeamNotify/) project.
 
-💬 Ask me about PowerShell, if you really want to.
+💬 Ask me about PowerShell and/or Ansible, if you really want to.
 
 📫 How to reach me: `tigattack#7987` on Discord.
 
