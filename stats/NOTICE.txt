@@ -1,0 +1,1 @@
+The sources in this directory, except in the "generated" directory, are sourced from https://github.com/jstrieb/github-stats with no modifications made.
